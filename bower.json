@@ -1,6 +1,6 @@
 {
   "name": "numeral-languages",
-  "version": "0.1.0",
+  "version": "1.0.0-beta.1",
   "homepage": "https://github.com/billysbilling/numeral-languages",
   "main": "src/js/index.js",
   "billy-builder": {
